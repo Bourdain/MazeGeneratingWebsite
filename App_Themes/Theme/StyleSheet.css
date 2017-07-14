@@ -1,0 +1,22 @@
+﻿body {
+    background-image:url(../Theme/background.png);
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+h1#TitleH1 {
+    text-align: center;
+}
+
+h2#TitleH2 {
+    text-align: center;
+}
+
+div#mainDiv {
+    width: 70%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 3pt 2pt black;
+}
